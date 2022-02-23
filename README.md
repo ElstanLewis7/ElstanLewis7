@@ -1,4 +1,4 @@
-![Full Stack Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Full Stack Development](https://media-exp1.licdn.com/dms/image/C4E16AQGbUW-CjRH1JA/profile-displaybackgroundimage-shrink_350_1400/0/1643149567113?e=1651104000&v=beta&t=Pg9VPMWyzKeVbn6OKVspE0Yi3dCwWAkiHufhVqpj1S4)
 
 # Elstan Lewis
 #### Full Stack Development
