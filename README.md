@@ -17,9 +17,7 @@ Skills: NODE | EXPRESS | POSTGRES | REACT | REDUX | JS | HTML | CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=elstanlewis7&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=elstanlewis7)  
 
-![GitHub metrics](https://metrics.lecoq.io/elstanlewis7)  
 
 
 
