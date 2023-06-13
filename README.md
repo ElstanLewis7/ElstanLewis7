@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elstan Lewis</h1>
-<h3 align="center">A curious software engineer</h3>
+<h3 align="center">I am a versatile full stack software engineer possessing a unique background in finance and architectural design. With expertise in agile software development and an inclination towards backend programming, I have the ability to seamlessly bridge the gap between technical and business audiences, ensuring efficient delivery of customer-centric solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elstanlewis7&label=Profile%20views&color=0e75b6&style=flat" alt="elstanlewis7" /> </p>
 
